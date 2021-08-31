@@ -1,0 +1,6 @@
+baseURL = "https://duncanbeard.com/"
+languageCode = "en-us"
+title = "Duncan Beard's Blog"
+theme = "bilberry-hugo-theme"
+publishDir = "docs"
+algolia_search = false
